@@ -1,16 +1,33 @@
-# food_delivery_app
+***Food delovery app the features To be included ***
 
-A new Flutter project.
+## Home page (shows popuplar product and recommended products)
 
-## Getting Started
+## Sign in and Sign up (sign up with mobile with verification code)
 
-This project is a starting point for a Flutter application.
+## Shopping cart (a real shopping cart with add and remove items on the fly)
 
-A few resources to get you started if this is your first Flutter project:
+## Local cart history page (using a local storage)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Server cart history page (sync with database)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Profile page (personal information)
+
+## Popular food page (view popular food, add or remove items from the cart)
+
+## Recommended food page (view recommended food, add or remove from the cart)
+
+## Order more function(newly added feature, it helps you order)
+
+## Go to sign in page (sign in page authentication before you place order)
+
+## Address page (address with authentication before you place order)
+
+## Google map page (for picking up location and save address)
+
+## Search address (search address or location for google map and save in the database.
+
+## Backend (backend to show user info and order detail)
+
+## Creating new items (backend you can create new items of food)
+
+## Paypal payment (Paypal payment sync with database)
